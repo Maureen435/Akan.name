@@ -1,6 +1,6 @@
 # Akan Naming Culture
+## Author
 
-Author
 Maureen Chepkemoi
 
 ## Description
