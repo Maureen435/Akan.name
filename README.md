@@ -21,7 +21,7 @@ GIT (for version control)
 ## contact information
 
 My technical mentor is Henry Onyango.
-My contacts is +254704603872
+My contacts is +254704603872.
 
 ## Licence
 Licensed under the MIT license.
