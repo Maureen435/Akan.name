@@ -1,3 +1,4 @@
+//declaring arrays
 var daysOfWeek=[
     "Sunday",
     "Monday",
@@ -27,7 +28,7 @@ var femaleNames=[
     "Afua",
     "Ama",
 ];
-
+//declaring functions
 function getName(){
 var year=parseInt(document.getElementById("year").value);
 var month =parseInt(document.getElementById("month").value);
